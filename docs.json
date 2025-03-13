@@ -29,9 +29,7 @@
             "group": "Channels",
             "pages": [
               "channels/email/intro",
-              "channels/web/intro",
-              "ai/intro"
-           
+              "channels/web/intro"
                
             ]
           }
