@@ -15,17 +15,24 @@
         "groups": [
           {
             "group": "Get Started",
-            "pages": ["introduction", "quickstart", "development"]
+            "pages": ["introduction", ]
           },
           {
             "group": "Essentials",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "inbox/intro",
+              "ai/intro",
+              "macros/intro"
+             
+            ]
+          },
+          {
+            "group": "Channels",
+            "pages": [
+              "channels/email/intro",
+              "channels/web/intro"
+           
+               
             ]
           }
         ]
