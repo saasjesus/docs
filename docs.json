@@ -23,14 +23,14 @@
               "inbox/intro",
               "ai/intro",
               "macros/intro"
-             
             ]
           },
           {
             "group": "Channels",
             "pages": [
               "channels/email/intro",
-              "channels/web/intro"
+              "channels/web/intro",
+              "ai/intro"
            
                
             ]
