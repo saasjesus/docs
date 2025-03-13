@@ -36,8 +36,8 @@
     }
   },
   "logo": {
-    "light": "/logo/armin-cx-logo-new.png",
-    "dark": "/logo/armin-cx-logo-new.png"
+    "light": "/logo/armin-cx-logo-new.svg",
+    "dark": "/logo/armin-cx-logo-new.svg"
   },
   "navbar": {
     "links": [
