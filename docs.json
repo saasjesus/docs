@@ -28,6 +28,13 @@
               "macros/intro"
             ]
           },
+           {
+            "group": "Workflows",
+            "pages": [
+              "workflows/intro",
+              "workflows/examples"
+            ]
+          },
           {
             "group": "Channels",
             "pages": [
