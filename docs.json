@@ -32,7 +32,7 @@
             "pages": [
               "ai/intro",
               "ai/guidances",
-              "ai/sources",
+              "ai/sources/website",
               "ai/handover-topics",
               "ai/using-workflows"
             ]
