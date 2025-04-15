@@ -7,10 +7,10 @@
     "light": "#4361ee",
     "dark": "#4361ee"
   },
-  "appearance":{
-    "default":"system"
+  "appearance": {
+    "default": "system"
   },
-  "favicon": "/favicon.ico",
+  "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
       {
@@ -18,16 +18,13 @@
         "groups": [
           {
             "group": "Get Started",
-            "pages": ["introduction" ]
+            "pages": ["introduction"]
           },
           {
             "group": "General",
-            "pages": [
-              "inbox/intro",
-              "macros/intro"
-            ]
+            "pages": ["inbox/intro", "macros/intro"]
           },
-           {
+          {
             "group": "AI",
             "pages": [
               "ai/intro",
@@ -37,20 +34,13 @@
               "ai/using-workflows"
             ]
           },
-           {
+          {
             "group": "Workflows",
-            "pages": [
-              "workflows/intro",
-              "workflows/examples"
-            ]
+            "pages": ["workflows/intro", "workflows/examples"]
           },
           {
             "group": "Channels",
-            "pages": [
-              "channels/email/intro",
-              "channels/web/intro"
-               
-            ]
+            "pages": ["channels/email/intro", "channels/web/intro"]
           }
         ]
       }
@@ -61,7 +51,7 @@
   },
   "seo": {
     "metatags": {
-        "og:image": "/logo/armin-cx-logo-new.svg"
+      "og:image": "/logo/armin-cx-logo-new.svg"
     }
   },
   "logo": {
