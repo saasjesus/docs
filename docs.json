@@ -40,7 +40,7 @@
           },
           {
             "group": "Channels",
-            "pages": ["channels/email/intro", "channels/web/intro"]
+            "pages": ["channels/email/intro", "channels/web/intro", "channels/socialmedia/intro", "channels/voice/intro"]
           }
         ]
       }
